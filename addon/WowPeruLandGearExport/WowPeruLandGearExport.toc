@@ -2,7 +2,7 @@
 ## Title: WowPeruLand Gear Export
 ## Notes: Exporta tu equipo con /gearexport para importarlo en la web de WowPeruLand
 ## Author: WowPeruLand
-## Version: 2.1
+## Version: 2.2
 
 WowPeruLandGearExport.lua
 WowPeruLandGearAI.lua
