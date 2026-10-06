@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: WowPeruLand Gear Export
+## Notes: Exporta tu equipo con /gearexport para importarlo en la web de WowPeruLand
+## Author: WowPeruLand
+## Version: 2.1
+
+WowPeruLandGearExport.lua
+WowPeruLandGearAI.lua

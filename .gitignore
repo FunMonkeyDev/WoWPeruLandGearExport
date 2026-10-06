@@ -1,0 +1,8 @@
+# Solo se publica el addon. Todo lo demas de esta carpeta (web, base de datos, descargas) queda fuera.
+/*
+!/.gitignore
+!/.github/
+!/addon/
+!/deploy-addon.ps1
+!/release.ps1
+!/README.md
