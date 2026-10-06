@@ -5,4 +5,6 @@
 !/addon/
 !/deploy-addon.ps1
 !/release.ps1
+!/install.ps1
+!/instalar.bat
 !/README.md
