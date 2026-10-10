@@ -5,7 +5,7 @@
 -- Contexto del servidor que se incluye en el prompt. Edita este texto cuando abran mas contenido,
 -- y tambien en GEM_INSTRUCCIONES.md.
 local SERVER_CONTEXT = [[Servidor privado de WoW con cliente 3.3.5a (WotLK) pero con contenido progresivo capado a Vanilla (1.x).
-Contenido abierto ahora: Molten Core, Zul'Gurub y Onyxia's Lair. Los battlegrounds y sus recompensas PvP de Vanilla pueden contar.
+Contenido abierto ahora: Molten Core, Onyxia's Lair, Zul'Gurub y Blackwing Lair (BWL). Los battlegrounds y sus recompensas PvP de Vanilla pueden contar.
 No se puede obtener contenido de TBC ni WotLK: no lo sugieras.
 Los items Heirloom (reliquia de cuenta) no estan permitidos dentro de raids: no los sugieras ni los cuentes como parte del set de raid, aunque los tenga puestos o en las bolsas.]]
 
